@@ -1,5 +1,5 @@
 #creating a simple function
-def my_function(fname, lname):
-  print(f"{fname} {lname}")
+def my_function(first_name, last_name):
+  print(f"{first_name} {last_name}")
 
-my_function("Trenisha", "Goslee")
+my_function("Tatsiana", "Khurs")
